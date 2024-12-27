@@ -1,0 +1,4 @@
+1. mingw32-make
+2. mingw32-make run
+3. mingw32-make vis 
+4. mingw32-make clean
