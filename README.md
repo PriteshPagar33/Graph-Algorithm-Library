@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 ## 🛠️ Future Enhancements
 
-- Implementation of advanced algorithms (Floyd-Warshall, A*)
+- Implementation of advanced algorithms like Floyd-Warshall ,A* etc
 - Enhanced visualization using Matplotlib integration
 - Machine learning-powered friend recommendations
 - Advanced graph analysis features
